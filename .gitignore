@@ -69,3 +69,4 @@ intermediate/
 vcpkg_installed/
 vcpkg_downloads/
 [Tt]emplate/
+!buildTools
